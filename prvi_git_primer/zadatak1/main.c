@@ -3,8 +3,8 @@
 int main()
 {
 	// kod za racunanje apsolutne vrednosti razlike dva broja a i b
-	int a = 5;
-	int b = 4;
+	int a = 3;
+	int b = 8;
 	int c;
 	
 	if(a > b)
